@@ -5,3 +5,4 @@
 ## Lab 4: Analog to Digital Conversion using ADC and DMA
 ## Lab 5: Digital to Analog Conversion through ADC and DMA
 ## Lab 6: Audio Record-Playback using Ping-Pong Buffer
+## Lab 7: Real-Time Voice Transformer with Audio Effect
